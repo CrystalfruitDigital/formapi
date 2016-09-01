@@ -1,0 +1,530 @@
+[ {
+	"brand": "Apple",
+	"device": "iPhone 6s",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 6s Plus",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone SE",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 6",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 6 Plus",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 5s",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 5c",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 5",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 4s",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPhone 4",
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad 1"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad 2"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad 3"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad 4"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad Mini"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad Mini 2"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad Mini 3"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad Mini 4"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad Air"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad Air 2"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPad pro"
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPod Touch 4th Gen."
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPod Touch 5th Gen."
+	},
+
+	{
+	"brand": "Apple",
+	"device": "iPod Touch 6th Gen."
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S7 Edge"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S7"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S6 Edge Plus"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S6 Edge"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S6 Active"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S6"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S5 Active"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S4"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S4 Active"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S4 Mini"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy S3"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note Edge"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note 5"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note 4"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note 3"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note 2"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note 1"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Mega 6.3"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Note 10.1"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Tab 4"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Tab 3"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Tab 2"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Tab"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Grand Prime"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Core Prime"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Droid Charge"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy A5"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy A7"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy A8"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy A9"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Alpha"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy E7"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy J5"
+	},
+
+	{
+	"brand": "Samsung",
+	"device": "Galaxy Nexus"
+	},
+
+	{
+	"brand": "LG",
+	"device": "G5"
+	},
+
+	{
+	"brand": "LG",
+	"device": "G4"
+	},
+
+	{
+	"brand": "LG",
+	"device": "G3"
+	},
+
+	{
+	"brand": "LG",
+	"device": "G2"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Nexus 5X"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Nexus 5"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Nexus 4"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Optimus G Pro"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Optimus G"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Optimus L9"
+	},
+
+	{
+	"brand": "LG",
+	"device": "Optimus L7"
+	},
+
+	{
+	"brand": "LG",
+	"device": "G FLex 2"
+	},
+
+	{
+	"brand": "LG",
+	"device": "V10"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Nexus 6"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Maxx 2"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Turbo 2"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Turbo"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Mini"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Ultra"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Ultra Maxx"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Razr HD"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Razr M"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Razr Maxx HD"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Razr Maxx"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Droid Razr"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Moto E2"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Moto E" 
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Moto G3"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Moto G2"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Moto G"
+	},
+
+	{
+	"brand": "Motorola",
+	"device": "Moto X"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Nexus 9"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One M9"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One M8"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One VX"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One S"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One X"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One Max"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "One"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "8X"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Droid DNA"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Droid Incredible"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Droid Incredible 2"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "EVO Desgin 4G"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "EVO 4G"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Inspire 4G"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Desire 816"
+	},
+
+	{
+	"brand": "HTC",
+	"device": "Desire 610"
+	},
+]
