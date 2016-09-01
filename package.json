@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CrystalfruitDigital/formapi/issues"
   },
-  "homepage": "https://github.com/CrystalfruitDigital/formapi#readme"
+  "homepage": "https://github.com/CrystalfruitDigital/formapi#readme",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "node": "0.0.0"
+  }
 }
