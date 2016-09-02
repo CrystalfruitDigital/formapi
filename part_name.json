@@ -1,0 +1,95 @@
+[ {
+	"part_name": "LCD/Digitizer Assembly",
+	"color": 1,
+	},
+
+	{
+	"part_name": "Charging Port",
+	"color": 1,
+	},
+
+	{
+	"part_name": "Headphone",
+	"color": 1,
+	},
+
+	{
+	"part_name": "Proximity Sensor",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Battery",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Front Camera",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Back Camera",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Vibrator",
+	"color": 0
+	},
+
+	{
+	"part_name": "Earpiece Speaker",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Loudspeaker",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Cellular Antenna",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Home Button",
+	"color": 1,
+	},
+
+	{
+	"part_name": "Wifi Antenna",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Antenna",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Screw Set",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Power Button",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Volume Button",
+	"color": 0,
+	},
+
+	{
+	"part_name": "Digitizer Screen",
+	"color": 1,
+	},
+
+	{
+	"part_name": "LCD",
+	"color": 0,
+	}
+]
