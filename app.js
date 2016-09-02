@@ -18,11 +18,11 @@ connection.query('SELECT * from ecommerce_phone', function(err, rows, fields) {
 });
 
 
-var post = ;
+// var post = ;
 
-connection.query('INSERT INTO ecommerce_phone (fields ...) VALUES (values...)', post, function(err, result) {
+// connection.query('INSERT INTO ecommerce_phone (fields ...) VALUES (values...)', post, function(err, result) {
 
-});
+// });
 
 connection.end();
 

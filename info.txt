@@ -1,0 +1,20 @@
+query("insert db (name,part) values(?,?)",[name,partname]
+
+
+//
+
+{
+	id: 1,
+	brand: "Apple",
+	device_name: "iPhone 5s",
+	part_name: "LCD", 
+	color: "Black"
+}
+
+
+id \t brand \t 
+1	  Apple 	LCD 
+
+
+
+/// KILL MYSQL DATABASE
