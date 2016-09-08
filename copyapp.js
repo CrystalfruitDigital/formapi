@@ -20,26 +20,25 @@ connection.connect(function(err) {
 	else console.log("Connection sucessful!");
 });
 
-connection.query('SELECT * from ecommerce_phone', function(err, rows, fields) {
+var insertIntoDatabase = function(post) {
+	connection.query('INSERT INTO phones_copy SET ?', post, function(err, result) {
+		if (err) console.log(err);
+		console.log(result);
+	});
+};
+
+
+connection.query('SELECT * from phones_copy', function(err, rows, fields) {
   if (err) throw err;
   // else console.log(fields);
 });
 
 // TRIPLE FOOOOORRRRRRR LOOP
 // SUPER O(n^3)
-
+var counter = 0;
 phones.forEach(function(phone) {
-	// console.log(val["brand"] + "\n");
-
-
-	// Create the obj
-	// loop throuh adding parts to it, and then colors
-
-	
 
 	parts.forEach(function(part) {
-
-
 
 		if (part["color"] === 1) {
 			// Add all the colors
@@ -54,50 +53,41 @@ phones.forEach(function(phone) {
 				// };
 				var obj = {};
 				obj["brand"] = phone["brand"];
-				obj["device"] = phone["device"];
-				obj["part"] = part["part_name"];
+				obj["device_name"] = phone["device"];
+				obj["part_name"] = part["part_name"];
 				obj["color"] = partColor;
-				console.log(obj);
+				insertIntoDatabase(obj);
+				// console.log(obj);
 
 			});
 
-
-
 		} else {
-			// set color to "" or null
-			// var obj = {
-			// 	"brand" = phone["brand"],
-			// 	"device" = phone["device"],
-			// 	"part" = part["part_name"],
-			// 	"color" = null
-			// };
 			var obj = {};
-				obj["brand"] = phone["brand"];
-				obj["device"] = phone["device"];
-				obj["part"] = part["part_name"];
-				obj["color"] = null;
-				console.log(obj);
+			obj["brand"] = phone["brand"];
+			obj["device_name"] = phone["device"];
+			obj["part_name"] = part["part_name"];
+			obj["color"] = null;
+			// console.log(obj);
+			insertIntoDatabase(obj);
 		}
-
-
+		counter++;
 
 	});
 
-
-
 });
 
 
+// var obj = {};
+// obj["brand"] = phones[0]["brand"];
+// obj["device_name"] = phones[0]["device"];
+// obj["part_name"] = parts[0]["part_name"];
+// obj["color"] = "Black";
+// console.log(obj);
 
 
 
-
-// var post = ;
-
-connection.query('INSERT INTO ecommerce_phone (fields ...) VALUES (values...)', function(err, result) {
-
-});
-
+// insertIntoDatabase(obj);
+console.log("-----counter-----:" + counter);
 connection.end();
 
 
